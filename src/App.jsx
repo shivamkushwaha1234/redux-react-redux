@@ -50,4 +50,7 @@ export default App
 // Uske liye jo react develoeprs hein ya community ne kuchh chij build kari jisko bolt hein react-redux joki thori si easy hein
 //installation:->
 //npm i react-redux @reduxjs/toolkit
-//
+//ab iske state management ke liye ek central store bana lenge wo store sare state manage karega kind of godam lelo
+//step-1 create store
+//With configureStore,the store setup can be simplified
+
